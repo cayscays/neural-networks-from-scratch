@@ -1,0 +1,3 @@
+[submodule "training-example-game-of-life/oscillators-7x7-dataset-game-of-life"]
+	path = training-example-game-of-life/oscillators-7x7-dataset-game-of-life
+	url = https://github.com/cayscays/oscillators-7x7-dataset-game-of-life.git
