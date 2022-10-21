@@ -11,7 +11,7 @@ The following attributes of the network are adjustable:
 * Amount of epochs.
 
 --------------------
-![image](https://user-images.githubusercontent.com/116169018/196711956-4b882e3c-add5-4aa2-8cf8-177953d08915.png)
+![image](https://user-images.githubusercontent.com/116169018/197206468-75d12b22-def3-4568-8677-bf8b47ede4a1.png)
 
 ## Versions of resources
 * Python 3.10
